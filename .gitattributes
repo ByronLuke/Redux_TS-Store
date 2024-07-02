@@ -1,0 +1,5 @@
+/node_modules/.bin/*.cmd text eol=lf
+/node_modules/@babel/core/node_modules/.bin/*.cmd text eol=lf
+/node_modules/@babel/helper-compilation-targets/node_modules/.bin/*.cmd text eol=lf
+/node_modules/@reduxjs/toolkit/LICENSE text eol=lf
+/node_modules/@reduxjs/toolkit/README.md text eol=lf
